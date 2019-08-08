@@ -1,0 +1,11 @@
+this is a test git ;
+ first commit;
+ second update;
+ third update;
+ git has a mutable index called stage;
+ git tracks changes of files
+ This file was modified by yonggang in 2019-08-07 xiaoming  我又修改了
+ "验证git commit的提交"
+ "再加一行"
+ add line add line2
+ add new line
